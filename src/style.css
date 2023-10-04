@@ -1,0 +1,87 @@
+img {
+    height: 50px;
+    width: 50px;
+}
+
+header {
+    border-bottom: solid 2px;
+    text-align: center;
+}
+
+.block1 {
+    text-align: center;
+    background-image: radial-gradient(circle at -4.17% 4.55%, #c4f5a8 0, #b2f3a9 10%, #9ef1ab 20%, #88eeae 30%, #6deab1 40%, #48e5b5 50%, #00e0ba 60%, #00dbc1 70%, #00d7c9 80%, #00d3d3 90%, #00cedc 100%);
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block2 {
+    text-align: center;
+    background-image: radial-gradient(circle at 25.28% 79.46%, #ffac00 0, #ff9c0c 16.67%, #fe8c18 33.33%, #f37b1f 50%, #e76b24 66.67%, #dc5c28 83.33%, #d14e2c 100%);
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block3 {
+    text-align: center;
+    background: linear-gradient(45deg, #4158d0 0%, #c850c0 40%, #ffcc70 90%);
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.j1 {
+    height: 350px;
+    width: 350px;
+    border: 24px;
+}
+
+.block1:hover {
+    border-radius: 24px;
+    border: solid 2px;
+}
+
+.block2:hover {
+    border-radius: 24px;
+    border: solid 2px;
+}
+
+.block3:hover {
+    border-radius: 24px;
+    border: solid 2px;
+}
+
+.j2 {
+    height: 350px;
+    width: 350px;
+    border-radius: 24px;
+}
+
+.j3 {
+    height: 350px;
+    width: 350px;
+    border-radius: 24px;
+}
+
+footer {
+    text-align: center;
+    background-image: radial-gradient(circle at -4.17% 4.55%, #00abf2 0, #00a9ff 3.33%, #00a8ff 6.67%, #00a5ff 10%, #00a2ff 13.33%, #009eff 16.67%, #0098ff 20%, #0091ff 23.33%, #0089ff 26.67%, #007fff 30%, #6874ff 33.33%, #9867ff 36.67%, #bb57ff 40%, #d645f2 43.33%, #eb2ede 46.67%, #fc02c9 50%, #ff00b3 53.33%, #ff009c 56.67%, #ff0086 60%, #ff006f 63.33%, #ff0059 66.67%, #ff0043 70%, #ff222d 73.33%, #ff3b0f 76.67%, #f64d00 80%, #e95d00 83.33%, #da6a00 86.67%, #ca7500 90%, #b87e00 93.33%, #a58700 96.67%, #918e00 100%);
+}
+
+p {
+    font-size: 50px;
+}
+
+body {
+    background-image: radial-gradient(circle at -4.17% 4.55%, #ffd1cc 0, #ffd2c7 3.33%, #ffd3c3 6.67%, #fed4c0 10%, #fad5bd 13.33%, #f7d7bb 16.67%, #f3d8b9 20%, #eedab8 23.33%, #e9dcb8 26.67%, #e4ddb9 30%, #dfdfba 33.33%, #d9e0bc 36.67%, #d3e2be 40%, #cee3c1 43.33%, #c8e4c5 46.67%, #c3e5c9 50%, #bee6cd 53.33%, #b9e6d2 56.67%, #b5e7d7 60%, #b2e7dc 63.33%, #afe7e1 66.67%, #ade7e6 70%, #ade7eb 73.33%, #ade6ef 76.67%, #aee6f4 80%, #b0e5f7 83.33%, #b3e4fa 86.67%, #b7e3fd 90%, #bce1ff 93.33%, #c1e0ff 96.67%, #c7deff 100%);
+}
+
+ul {
+    display: inline-flex;
+}
+
+dt {
+    margin: 10px;
+}
